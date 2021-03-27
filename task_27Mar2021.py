@@ -25,3 +25,10 @@ Name2: Srikanteswararao
 Name3: Siddu
 Srikanteswararao is the longest
 """
+
+"""
+Task4:
+1. Take two names from user(first name and last name)
+2. take the gender (male/female)
+3. Print the greeting (Ex: Good morning, Mr. Tarun Muttavarapu , Ex: Good morning, Ms. Haritha Muttavarapu)
+"""

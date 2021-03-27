@@ -6,16 +6,16 @@ Task1:
 ex: John
 length is : 4
 """
-#
-# name = input("Enter your name: ")
-# age = 10
-# print(type(age))
-# print(name)
-# print(type(name))
-#
-# length = len(name)
-# print("Length of my name is {}".format(length))
-#
+
+name = input("Enter your name: ")
+age = 10
+print(type(age))
+print(name)
+print(type(name))
+
+length = len(name)
+print("Length of my name is {}".format(length))
+
 
 
 """
@@ -26,17 +26,17 @@ ex: Name1: Tarun
 Name2: Srikanteswararao
 Srikanteswararao is longer
 """
-#
-# name1 = input("Enter name1: ")
-# name2 = input("Enter name2: ")
-#
-# length1 = len(name1)
-# length2 = len(name2)
-#
-# if length1 > length2:
-#     print("{} is longer".format(name1))
-# else:
-#     print("{} is longer".format(name2))
+
+name1 = input("Enter name1: ")
+name2 = input("Enter name2: ")
+
+length1 = len(name1)
+length2 = len(name2)
+
+if length1 > length2:
+    print("{} is longer".format(name1))
+else:
+    print("{} is longer".format(name2))
 
 
 
