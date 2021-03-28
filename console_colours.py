@@ -1,10 +1,11 @@
-reset='\033[0m'
-bold='\033[01m'
-disable='\033[02m'
-underline='\033[04m'
-reverse='\033[07m'
-strikethrough='\033[09m'
-invisible='\033[08m'
+class utils:
+    reset='\033[0m'
+    bold='\033[01m'
+    disable='\033[02m'
+    underline='\033[04m'
+    reverse='\033[07m'
+    strikethrough='\033[09m'
+    invisible='\033[08m'
 class fg:
     black='\033[30m'
     red='\033[31m'
@@ -31,10 +32,10 @@ class bg:
     cyan='\033[46m'
     lightgrey='\033[47m'
 
-
-print(fg.red, "Red")
-print(fg.yellow, "Yellow")
-print(fg.orange, "Orange")
-print(fg.green, "Green")
-print(fg.cyan, "Cyan")
-print(fg.pink, "Pink")
+if __name__ == "__main__":
+    print(fg.red, "Red")
+    print(fg.yellow, "Yellow")
+    print(fg.orange, "Orange")
+    print(fg.green, "Green")
+    print(fg.cyan, "Cyan")
+    print(fg.pink, "Pink")
