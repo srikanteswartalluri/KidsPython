@@ -8,3 +8,9 @@ enter second number: 6
 enter arithmetic operator: +
 result : 11
 """
+
+"""
+task6:
+1. Take two colours as input from user like red, white, yellow, blue, green
+2. Print the colour  
+"""
