@@ -15,3 +15,24 @@ task8:
 1. Take a number from user
 2. Identify if the number is odd and divisible by 5
 """
+
+"""
+task9:
+1. Take a number from user
+2. Identify if the number is even and divisible by 2 and divisible by 3
+"""
+
+"""
+task10: 
+1. Take a number from user
+2. print numbers from 0 until that number
+"""
+
+"""
+task10: 
+1. Take a number from user
+2. print numbers from 0 until that number with the following conditions:
+    a. print "hello" if the number is divisible by 5
+    b. print "world" if the number is divisible by 3
+    c. print "hello world" if the number is divisible by 5 and 3
+"""
