@@ -19,7 +19,13 @@ task8:
 """
 task9:
 1. Take a number from user
-2. Identify if the number is even and divisible by 2 and divisible by 3
+2. Identify if the number is even and divisible by 4 and divisible by 3
+"""
+
+"""
+task9a:
+1. Take a number from user
+2. Print "hurray" if the number is even or  divisible by 4 else print "oh damn!"
 """
 
 """
@@ -29,10 +35,11 @@ task10:
 """
 
 """
-task10: 
+task11: 
 1. Take a number from user
 2. print numbers from 0 until that number with the following conditions:
     a. print "hello" if the number is divisible by 5
     b. print "world" if the number is divisible by 3
     c. print "hello world" if the number is divisible by 5 and 3
 """
+
