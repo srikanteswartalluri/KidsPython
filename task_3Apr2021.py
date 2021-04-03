@@ -9,3 +9,9 @@ hint: 1. If a number is divisible by 2, it is even else it is odd
 ex: 11 % 2 => result is 1
 10 % 2 => result is 0
 """
+
+"""
+task8:
+1. Take a number from user
+2. Identify if the number is odd and divisible by 5
+"""
