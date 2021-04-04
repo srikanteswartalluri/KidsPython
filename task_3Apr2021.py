@@ -14,6 +14,8 @@ ex: 11 % 2 => result is 1
 task8:
 1. Take a number from user
 2. Identify if the number is odd and divisible by 5
+refer the below document:
+https://docs.google.com/spreadsheets/d/1ZWYHUDR_yRgs9RecTdKYUxJK4qHixCk8WirDiPb6KMI/edit?usp=sharing
 """
 
 """
@@ -32,6 +34,7 @@ task9a:
 task10: 
 1. Take a number from user
 2. print numbers from 0 until that number
+hint: use for loop
 """
 
 """
